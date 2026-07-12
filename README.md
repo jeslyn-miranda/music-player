@@ -1,10 +1,6 @@
 # 🎵 Music Player
 
 <p align="center">
-  <img src="images/cover1.jpg" alt="Music Player Preview" width="250">
-</p>
-
-<p align="center">
   A clean and responsive Music Player built using <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>. 🎧
 </p>
 
