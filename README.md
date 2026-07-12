@@ -63,23 +63,9 @@ music-player/
 
 ## 📸 Screenshots
 
-### 🎧 Home Screen
-
-> Add your screenshot here
-
-```
-images/screenshot-home.png
-```
-
----
-
 ### ▶️ Music Playing
 
-> Add your screenshot here
-
-```
-images/screenshot-playing.png
-```
+<img width="1199" height="891" alt="image" src="https://github.com/user-attachments/assets/d059a656-ff99-4456-ba29-20baa06ac0b3" />
 
 ---
 
@@ -111,27 +97,6 @@ While building this project, I practiced:
 - 🎼 Rotating Album Artwork
 - 🎵 Lyrics Support
 
----
-
-## 🛠️ Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/your-username/music-player.git
-```
-
-Open the project folder
-
-```bash
-cd music-player
-```
-
-Open **index.html** in your browser.
-
-That's it! 🎉
-
----
 
 ## 📈 Skills Demonstrated
 
@@ -165,10 +130,6 @@ GitHub: https://github.com/your-username
 LinkedIn: https://linkedin.com/in/your-linkedin
 
 ---
-
-<p align="center">
-  ⭐ If you enjoyed this project, consider giving it a star! ⭐
-</p>
 
 <p align="center">
   Made with ❤️, music, and lots of JavaScript.
